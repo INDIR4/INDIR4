@@ -5,8 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indir4" alt="indir4" /></a> </p>
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/indira01234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/indira01234" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
